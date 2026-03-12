@@ -55,7 +55,7 @@ The dashboard provides insights into:
 ## Dashboard Preview
 
 ### Overview
-![Dashboard](Dashborad/Super_store_dasborad)
+![Dashboard](Super_store_dash.gif)
 
 ---
 
